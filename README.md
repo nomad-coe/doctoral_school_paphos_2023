@@ -11,3 +11,8 @@ This repository contains the slides shown at the school.
 ### Wed: Exercises by Erwin Laure/Markus Rampp
 
 - [MPCDF Repository](https://gitlab.mpcdf.mpg.de/mjr/nomad-summer-2023)
+
+### Fri: Exercises by Peter Karpov
+
+https://github.com/karpov-peter/elpa-tutorial/
+  
