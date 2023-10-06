@@ -12,7 +12,7 @@ This repository contains the slides shown at the school.
 
 - [MPCDF Repository](https://gitlab.mpcdf.mpg.de/mjr/nomad-summer-2023)
 
-  ### Fri: Exercises by Peter Karpov
+### Fri: Exercises by Peter Karpov
 
-  https://github.com/karpov-peter/elpa-tutorial/
+https://github.com/karpov-peter/elpa-tutorial/
   
