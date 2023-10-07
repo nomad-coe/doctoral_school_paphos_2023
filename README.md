@@ -15,4 +15,9 @@ This repository contains the slides shown at the school.
 ### Fri: Exercises by Peter Karpov
 
 https://github.com/karpov-peter/elpa-tutorial/
-  
+
+### Sat: Exercises by Jussi Enkovaara
+
+- [Repository in csc-training github](https://github.com/csc-training/nomad-school-paphos)
+  - If you are interested in HPC programming you can find lots of other material under [csc-training](https://github.com/csc-training),
+    *e.g.* good introduction to various HPC programming approaches is discussed in the [CSC HPC Summerschool](https://github.com/csc-training/summerschool)
