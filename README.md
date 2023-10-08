@@ -14,7 +14,7 @@ This repository contains the slides shown at the school.
 
 ### Fri: Exercises by Peter Karpov
 
-https://github.com/karpov-peter/elpa-tutorial/
+- [ScaLAPACK + ELPA tutorial](https://github.com/karpov-peter/elpa-tutorial/)
 
 ### Sat: Exercises by Jussi Enkovaara
 
